@@ -1,0 +1,28 @@
+EventId:19
+AssociationId:57
+CategoryTypeId:4
+Title:THYROID SUMMIT 2024
+Description:
+CityId:438
+StateId:16
+CountryId:1
+EventModeId:43
+RegistrationStartDate:2024-11-29T00:00:00
+RegistrationEndDate:2024-11-29T00:00:00
+EventStartDate:2024-11-30T09:00:00
+EventEndDate:2024-12-03T18:00:00
+BroucherUrl:
+Address:4th Cross Road, Doctors Layout, East of NGEF Layout, Kasturi Nagar, Bengaluru, Karnataka, India
+VideoUrl:
+EventStatusId:
+PhoneCode:+91
+PhoneCountryId:1
+ContactNumber:9000989567
+ContactEmail:thyroidsummit@gmail com
+WebSite:
+Geolocation.X:13.0047773
+Geolocation.Y:87.78897
+IsFreeEvent:true
+NoOfSeats:150
+IsPlatformFeePaidByParticipant:
+IsPrivateEvent:false
