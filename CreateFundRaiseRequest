@@ -1,0 +1,43 @@
+https://fundraise-api.dev.kootami.com/api/v1/FundRaise/CreateFundRaiseRequest
+
+BeneficiaryAccountDetails.FundRaisingBeneficiaryAccountId:
+BeneficiaryAccountDetails.FundRaisingBeneficiaryId:
+BeneficiaryAccountDetails.FundRaisingId:
+BeneficiaryAccountDetails.Name:
+BeneficiaryAccountDetails.BankName:
+BeneficiaryAccountDetails.BankAccountNumber:
+BeneficiaryAccountDetails.BankRoutingType:
+BeneficiaryAccountDetails.BankRoutingTypeId:
+BeneficiaryAccountDetails.BankRoutingCode:
+BeneficiaryAccountDetails.IsOrgAccount:
+BeneficiaryAccountDetails.UpiId:
+BeneficiaryAccountDetails.BankingPaymentTypeId:
+BeneficiaryDetails.FundRaisingBeneficiaryId:
+BeneficiaryDetails.FundRaisingId:
+BeneficiaryDetails.Name:
+BeneficiaryDetails.EmailId:
+BeneficiaryDetails.PhoneCode:
+BeneficiaryDetails.PhoneCountryId:
+BeneficiaryDetails.PhoneNumber:
+BeneficiaryDetails.KYCType:
+BeneficiaryDetails.KYCTypeId:
+BeneficiaryDetails.KycDocumentUrl:
+BeneficiaryDetails.KycVerificationStatusId:
+BeneficiaryDetails.KycVerificationStatus:
+LinkedAsscoiations:
+FundRaisingId:
+FundRaisingTypeId:16
+FundRaisingCategoryId:1
+FundRaisingRequestForId:122
+AssociationMemberId:0
+AssociationId:57
+Title:My leg injure Operation Cost
+Description:This fundraising campaign is dedicated to providing essential education resources such as books
+CurrencyCode: ₹
+CurrencyCountryId:1
+TargetAmount:300000
+TargetEndDate:2025-11-30T00:00:00
+IsTaxBenefitApplicable:false
+ApplicableTaxCode:
+VideoUrl:
+FundRaiseRejectReason:
