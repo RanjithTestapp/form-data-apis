@@ -1,0 +1,68 @@
+UserAccountInfoId:
+Name:Navya
+BankName:ICICI Bank
+BankAccountNumber:6868788986
+BankRoutingTypeId:46
+BankRoutingCode:ICICI89909
+UPIId:
+BankingPaymentTypeId:170
+IsDefault:false
+KycDocuments[0].kycTypeId:1
+KycDocuments[1].kycTypeId:2
+KycVerificationStatusId:
+KycVerificationStatus:
+1:49
+Update
+UserAccountInfoId:9
+Name:Navya Reddy
+BankName:ICICI Bank
+BankAccountNumber:6868788986
+BankRoutingTypeId:46
+BankRoutingCode:ICICI89909
+UPIId:
+BankingPaymentTypeId:170
+IsDefault:false
+KycDocuments[0].kycTypeId:1
+KycDocuments[1].kycTypeId:2
+KycVerificationStatusId:133
+KycVerificationStatus:InReview
+1:50
+Create
+AssociationAccountInfoId:0
+AssociationId:12
+Name:Kiran kumar
+BankName:SBI
+BankAccountNumber:62248496087
+BankRoutingTypeId:46
+BankRoutingCode:IFSC
+UpiId:
+BankingPaymentTypeId:170
+IsDefault:false
+KycDocuments[0].kycTypeId:1
+KycDocuments[1].kycTypeId:2
+KycVerificationStatusId:
+KycVerificationStatus:
+1:50
+Upadte
+{
+  "associationAccountInfoId": 6,
+  "associationId": 7,
+  "name": "kiran kumar Reddy",
+  "bankName": "SBI",
+  "bankAccountNumber": "62248496088",
+  "bankRoutingTypeId": 46,
+  "bankRoutingCode": "SBIN8909",
+  "upiId": "",
+  "bankingPaymentTypeId": 170,
+  "isDefault": false,
+  "kycDocuments": [
+    {
+      "kycTypeId": 1,
+      "kycDocumentFile": "",
+      "kycDocumentUrl": "https://s3.ap-south-1.amazonaws.com/kootami-dev-objects/Profile/7fb4502e-39ba-4500-8351-58a68a668f26.pdf",
+      "associationAccountDocumentId": 0
+    }
+  ],
+  "kycVerificationStatusId": 113,
+  "kycVerificationStatus": "InReview"
+}
