@@ -1,0 +1,85 @@
+Geolocation.X:17.4370737
+Geolocation.Y:78.3632308
+BannerUrls:
+BannerFiles:
+OrganizingGroups:69
+EventRegistrationDetails[0].eventRegistrationDetailId:0
+EventRegistrationDetails[0].eventId:0
+EventRegistrationDetails[0].isFoodProvided:true
+EventRegistrationDetails[0].isAccommodationProvided:true
+EventRegistrationDetails[0].isTransportProvided:true
+EventRegistrationDetails[0].title:0
+EventRegistrationDetails[0].applicableTillDate:2024-11-28T18:30:00.000Z
+EventRegistrationDetails[0].applicableRegistrationFee:10000
+EventRegistrationDetails[0].applicableCurrencyCode:INR
+EventRegistrationDetails[0].onspotCurrencyCode:INR
+EventRegistrationDetails[0].applicableCurrencySymbol:₹
+EventRegistrationDetails[0].onspotCurrencySymbol:₹
+EventRegistrationDetails[0].applicableCurrencyCountryId:1
+EventRegistrationDetails[0].onspotCurrencyCountryId:1
+EventRegistrationDetails[0].onSpotRegistrationFee:15000
+EventRegistrationDetails[0].registeredMembers:0
+EventRegistrationDetails[0].isPlatformFeePaidByParticipant:true
+
+Agenda[0].eventAgendaId:0
+Agenda[0].eventId:0
+Agenda[0].title:Welcome event
+Agenda[0].description:This about the welcoming the event
+Agenda[0].agendaDate:2024-11-29T13:15:00
+Agenda[0].startTime:09:00:00
+Agenda[0].endTime:18:00:00
+Agenda[0].presenters:
+Agenda[0].presentersDetails:
+
+EventGuidelines.EventGuidelineId:
+EventGuidelines.EventId:
+EventGuidelines.RegistrationGuidelines:
+EventGuidelines.CancellationGuidelines:
+EventGuidelines.ImportantGuidelines:
+
+EventAccountInfo.EventAccountInfoId:103
+EventAccountInfo.EventId:253
+EventAccountInfo.Name:Naari Well Nesz
+EventAccountInfo.BankName:Sbi Bank
+EventAccountInfo.BankAccountNumber:6558989565
+EventAccountInfo.BankRoutingTypeId:46
+EventAccountInfo.BankRoutingType:IFSC Code
+EventAccountInfo.BankRoutingCode:SBIN2456
+EventAccountInfo.IsOrgAccount: true
+EventAccountInfo.UpiId:
+EventAccountInfo.BankingPaymentTypeId:170
+
+HasRegistered:
+BannerUrlsString:
+CategoryType:
+EventMode:
+IsBookmarked:
+AssociationName:
+IsFeaturedEvent:false
+MinFee:
+RegistationStatus:
+EventId:
+AssociationId:232
+CategoryTypeId:28
+Title:India Global Expo 2025
+Description:India is set to host its inaugural global mobility exhibition, a first of its kind in the country. This international expo will serve as a convergence point for the entire spectrum 
+CityId:1
+StateId:32
+CountryId:1
+EventModeId:44
+RegistrationStartDate:2025-01-25T18:30:00.000Z
+RegistrationEndDate:2025-01-29T18:30:00.000Z
+EventStartDate:2025-01-26T07:00:00.000Z
+EventEndDate:2025-02-28T12:30:00.000Z
+BroucherUrl:
+Address:Manikonda, Hyderabad, Telangana, India
+VideoUrl:
+EventStatusId:
+PhoneCountryId:1
+ContactNumber:9897893586
+ContactEmail:Indiabharatmobility@gmail.com
+WebSite:
+IsFreeEvent:false
+NoOfSeats:150
+IsPlatformFeePaidByParticipant:false
+IsPrivateEvent:true
